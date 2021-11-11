@@ -1,0 +1,39 @@
+1) choose scenario
+2) uni premise - 8 hr long
+
+-----
+RULES
+1) s/w
+2) 4 scopes - choose any 1
+3) Java
+4) EDIT: present - 3, have scope for 2+ members
+a) Taj - friend (pending)
+b) Rom - friend (pending)
+5) EDIT: Team Name:
+a) Taj - 
+b) Rom -
+6) Template - https://docs.google.com/document/d/1vsDGf7d5rTgJnq9ThF_OT0wV7dez3o_LuVB2WSJ2GIs/edit#
+
+-----
+SCOPE 1 - REMOTE HEALTH CARE
+1) Taj - Village (non-Internet - local app uses SIM)
+2) Rom - Max/min cost of tests (which is violated at village level)
+3) Asf - Java App - Doc, Patient, Message + Call, Files, Hosp
+a) You monitor the 'pattern' - upcoming disease outbreak, dengue caution - PLZ USE MOSQUITO REPELLENT SPRAY
+
+SCOPE 2 - Global Environmental Welfare
+1) Rom - irrigation (MARS EX Society - Soil Scientists)
+
+SCOPE 3 - EDUCATION IN POST-COVID
+1) Asf - solution in previous article contest
+ 
+MSK1
+ZHO
+
+Taj - SZZ
+Rom - ZHO, RRN, (AKR)
+
+
+ 
+
+
